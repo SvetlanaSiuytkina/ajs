@@ -1,0 +1,20 @@
+{
+  "name": "@svetlanasiuytkina/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/SvetlanaSiuytkina/ajs#readme",
+  "bugs": {
+    "url": "https://github.com/SvetlanaSiuytkina/ajs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SvetlanaSiuytkina/ajs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
